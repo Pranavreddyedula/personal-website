@@ -16,7 +16,7 @@ export default function PersonalWebsite() {
     <div className="min-h-screen bg-gray-50 dark:bg-gray-900 text-gray-800 dark:text-white p-8">
       <div className="max-w-4xl mx-auto grid gap-8">
         <header className="text-center">
-          <h1 className="text-4xl font-bold">John Doe</h1>
+          <h1 className="text-4xl font-bold">pranav reddy</h1>
           <p className="text-lg mt-2">Web Developer & Designer</p>
         </header>
 
@@ -60,8 +60,8 @@ export default function PersonalWebsite() {
         <Card><CardContent className="p-6">
           <h2 className="text-2xl font-semibold mb-4">Contact</h2>
           <div className="flex flex-wrap gap-4">
-            <Button variant="outline" asChild><a href="mailto:john@example.com"><Mail className="mr-2" /> Email</a></Button>
-            <Button variant="outline" asChild><a href="https://github.com/johndoe" target="_blank"><Github className="mr-2" /> GitHub</a></Button>
+            <Button variant="outline" asChild><a href="mailto:pranavreddy@gmail.com"><Mail className="mr-2" /> Email</a></Button>
+            <Button variant="outline" asChild><a href="https://github.com/pranavreddyedula" target="_blank"><Github className="mr-2" /> GitHub</a></Button>
             <Button variant="outline" asChild><a href="https://linkedin.com/in/johndoe" target="_blank"><Linkedin className="mr-2" /> LinkedIn</a></Button>
             <Button variant="outline" asChild><a href="/resume.pdf" download><FileText className="mr-2" /> Resume</a></Button>
           </div>
